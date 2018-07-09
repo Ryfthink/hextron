@@ -22,3 +22,7 @@ yarn-error.log*
 
 # css
 src/**/*.css
+
+# electron compiled js
+electron/*.js
+electron/*.js.map
